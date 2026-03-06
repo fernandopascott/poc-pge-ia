@@ -1,0 +1,12 @@
+# Pastas de compilação do Maven
+target/
+
+# Arquivos de configuração do Eclipse/IDE
+.classpath
+.project
+.settings/
+.factorypath
+
+# Arquivos de propriedades com segredos
+src/main/resources/application.properties
+src/main/resources/application2.properties
