@@ -6,12 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.demo</groupId>
-    <artifactId>openai-spring-demo</artifactId>
+    <artifactId>grau-de-recuperabilidade-com-ia</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>openai-spring-demo</name>
-    <description>Demo integração OpenAI com Spring</description>
+    <name>grau-de-recuperabilidade-com-ia</name>
+    <description>POC Integração de IA para Grau de Recuperabilidade</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
